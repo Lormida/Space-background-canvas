@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+body {
+  overflow: hidden;
+}
+#space-canvas {
+  position: relative;
+  left: 0%;
+  top: 0%;
+}
